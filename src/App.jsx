@@ -94,7 +94,9 @@ function App() {
         <div
           className="z-20 h-[60px] w-[60px] md:h-[100px] md:w-[100px] rounded-full cursor-pointer overflow-hidden"
           onClick={() =>
-            window.open("32QyayKT5GoJF9p8eGzT8KUGHHr52gqYXmNEVC5Rpump")
+            window.open(
+              "https://pump.fun/coin/32QyayKT5GoJF9p8eGzT8KUGHHr52gqYXmNEVC5Rpump?coin_sort=market_cap"
+            )
           }
         >
           <img className="h-full w-full object-cover" src={pumpLogo} alt="" />
