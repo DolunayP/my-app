@@ -88,15 +88,14 @@ function App() {
         >
           <img src={xLogo} alt="" />
         </div>
-        <div
-          className="z-20 h-[60px] w-[60px]  md:h-[100px] md:w-[100px] rounded-full cursor-pointer overflow-hidden"
-          onClick={() => window.open("https://x.com/pumpguycz")}
-        >
+        <div className="z-20 h-[60px] w-[60px]  md:h-[100px] md:w-[100px] rounded-full cursor-pointer overflow-hidden">
           <img src={dexLogo} alt="" />
         </div>
         <div
           className="z-20 h-[60px] w-[60px] md:h-[100px] md:w-[100px] rounded-full cursor-pointer overflow-hidden"
-          onClick={() => window.open("https://x.com/pumpguycz")}
+          onClick={() =>
+            window.open("32QyayKT5GoJF9p8eGzT8KUGHHr52gqYXmNEVC5Rpump")
+          }
         >
           <img className="h-full w-full object-cover" src={pumpLogo} alt="" />
         </div>
@@ -143,7 +142,7 @@ function App() {
         onMouseLeave={() => setHovered(false)}
       >
         <span className="text-white">
-          CA: abcd2dkwqdkksdsdıgsemglskdwladlwqdmpump
+          CA:32QyayKT5GoJF9p8eGzT8KUGHHr52gqYXmNEVC5Rpump
         </span>
       </div>
 
